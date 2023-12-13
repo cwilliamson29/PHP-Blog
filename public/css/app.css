@@ -1,4 +1,4 @@
-body{
+body {
     background: white;
     color: black;
     max-width: 600px;
@@ -6,7 +6,7 @@ body{
     font-family: sans-serif;
 }
 
-p{
+p {
     line-height: 1.6;
 }
 
